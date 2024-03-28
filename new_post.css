@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav{
+    background-color: black;
+    height: 50px;
+    color: white;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"], textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+
+  .main h1{
+  text-align: center;
+  }
+  

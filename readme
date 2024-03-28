@@ -1,0 +1,42 @@
+ <div class="cards-wrapper w-screen  h-[30vw] flex items-center px-[7vw] gap-[5vw] py-[1vw] flex-wrap " >
+                    <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                        <img class="h-full w-full object-fit" src="./TOOTHACHE.jpg" alt="">
+                    </div>
+                    <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                        <img class="h-full w-full object-fit" src="./Nausea.jpg" alt="">
+                    </div>
+                    <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                        <img class="h-full w-full object-fit" src="./CONSTIPATION IN CHILDREN.jpg" alt="">
+                    </div>
+                    <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                        <img class="h-full w-full object-fit" src="./cough.png" alt="">
+                    </div>
+                     </div>
+                     <div class="cards-wrapper w-screen  h-[30vw] flex items-center px-[7vw] gap-[5vw] py-[1vw] flex-wrap " >
+                        <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                            <img class="h-full w-full object-fit" src="./dry skin.jpg" alt="">
+                        </div>
+                        <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                            <img class="h-full w-full object-fit" src="./face mask.jpg" alt="">
+                        </div>
+                        <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                            <img class="h-full w-full object-fit" src="./ACNE.jpg" alt="">
+                        </div>
+                        <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                            <img class="h-full w-full object-fit" src="./massage oil.jpg" alt="">
+                        </div>
+                         </div>
+                         <div class="cards-wrapper w-screen  h-[30vw] flex items-center px-[7vw] gap-[5vw] py-[1vw] flex-wrap " >
+                            <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                                <img class="h-full w-full object-fit" src="./Dandruff.jpg" alt="">
+                            </div>
+                            <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                                <img class="h-full w-full object-fit" src="./Restorative Hair Oil.jpg" alt="">
+                            </div>
+                            <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                                <img class="h-full w-full object-fit" src="./Nourishing Hair Oil.jpg" alt="">
+                            </div>
+                            <div class=".cards w-[18vw] h-[18vw] bg-white  ">
+                                <img class="h-full w-full object-fit" src="./herbal Rinses.jpg" alt="">
+                            </div>
+                             </div>
